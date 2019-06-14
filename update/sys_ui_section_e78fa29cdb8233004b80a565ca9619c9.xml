@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="e78fa29cdb8233004b80a565ca9619c9" sys_domain="global" table="" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_journal_3</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:18:23</sys_created_on>
+            <sys_id>e38fa29cdb8233004b80a565ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="NULL" sys_domain="global" view="6b9e0140c41133007850fc0eb61b299d">e78fa29cdb8233004b80a565ca9619c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:18:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:18:23</sys_created_on>
+            <sys_id>6b8fa29cdb8233004b80a565ca9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="NULL" sys_domain="global" view="6b9e0140c41133007850fc0eb61b299d">e78fa29cdb8233004b80a565ca9619c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:18:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name/>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:18:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e78fa29cdb8233004b80a565ca9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_overrides/>
+            <sys_package display_value="sinduit1" source="x_366626_sinduit1">04db7994db0233004b80a565ca96199c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit1">04db7994db0233004b80a565ca96199c</sys_scope>
+            <sys_update_name>sys_ui_section_e78fa29cdb8233004b80a565ca9619c9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:18:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">6b9e0140c41133007850fc0eb61b299d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

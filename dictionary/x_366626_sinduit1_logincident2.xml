@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_366626_sinduit1_logincident" label="logincident2" max_length="40" name="x_366626_sinduit1_logincident2" sizeclass="2" type="collection">
+        <element default="enter" label="name" max_length="20" name="name" type="string"/>
+    </element>
+</database>

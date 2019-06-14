@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Completed" max_length="40" name="x_366626_sinduit1_completed" sizeclass="2" type="collection">
+        <element choice="1" label="Enter email" max_length="30" name="enter_email" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element hint="this is the email" inactive_on_update="false" label="Lakshmi" value="lakshmi14@gmail.com"/>
+            </choice>
+        </element>
+        <element label="Name of student" max_length="40" name="name_of_student" type="string"/>
+        <element label="Project Abstract" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Approval Date" mandatory="true" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Your project Domain" mandatory="true" max_length="1024" name="u_url_2" type="url"/>
+    </element>
+</database>

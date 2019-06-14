@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="lenovolap">b21357ecdb0233004b80a565ca961979</sc_cat_item>
+        <sc_catalog display_value="Induit3service ">87219facdb0233004b80a565ca961946</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:32:28</sys_created_on>
+        <sys_id>0f23db20db4233004b80a565ca961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Induit3service .lenovolap</sys_name>
+        <sys_package display_value="sinduit1" source="x_366626_sinduit1">04db7994db0233004b80a565ca96199c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit1">04db7994db0233004b80a565ca96199c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0f23db20db4233004b80a565ca961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:32:28</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

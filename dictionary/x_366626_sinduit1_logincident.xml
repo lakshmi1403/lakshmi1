@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Logincident" max_length="40" name="x_366626_sinduit1_logincident" sizeclass="3" type="collection">
+        <element label="Affected User" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="1" label="Choice" max_length="40" name="choice" type="choice">
+            <choice>
+                <element hint="drop" inactive_on_update="false" label="Email" value="abc@gmail.com"/>
+            </choice>
+        </element>
+        <element default="history" label="History" max_length="4000" name="history" read_only="true" type="journal"/>
+        <element default="*****" label="password" mandatory="true" max_length="255" name="password" type="password2"/>
+        <element default="default description" label="Sindudesc" max_length="100" name="sindudesc" read_only="true" type="string"/>
+        <element default="Test default" label="Sindu Short Description" max_length="100" name="sindu_short_description" type="string"/>
+        <element label="Resume" mandatory="true" max_length="40" name="u_file_attachment_3" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of issue" mandatory="true" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" mandatory="true" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="history" max_length="4000" name="u_journal_1" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_3" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>
